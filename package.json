@@ -1,0 +1,19 @@
+{
+  "name": "your_daily",
+  "version": "1.0.0",
+  "author": "zhangm",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-prismjs": "^2.0.0-beta.36",
+    "@vuepress/plugin-search": "^2.0.0-beta.36",
+    "vuepress": "^2.0.0-beta.36"
+  },
+  "scripts": {
+    "doc:dev": "vuepress dev docs",
+    "doc:build": "vuepress build docs",
+    "lint:md": "lint-md ./docs/"
+  },
+  "dependencies": {
+    "@lint-md/cli": "^0.1.7"
+  }
+}
