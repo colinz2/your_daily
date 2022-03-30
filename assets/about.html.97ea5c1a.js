@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./app.5014523d.js";const o={};function r(_,a){return t(),c("p",null,"\u4FDD\u5B58\u4E2A\u4EBA\u8D44\u6599")}var l=e(o,[["render",r],["__file","about.html.vue"]]);export{l as default};
