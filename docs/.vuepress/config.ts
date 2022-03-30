@@ -4,7 +4,7 @@ import {getYearList} from '../../script/readfile'
 
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
-  base: '/',
+  base: '/your_daily',
   lang: 'zh-CN',
   title: '我的日志',
   description: '每日记录',
