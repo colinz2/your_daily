@@ -21,11 +21,11 @@ $ yarn
 $ yarn lint:md
 
 # 开始阅读
-$ yarn doc:dev 
+$ yarn docs:dev 
 ```
 
 ## 部署
 ```bash
-$ yarn doc:build
+$ yarn docs:build
 ```
 [这里](https://v2.vuepress.vuejs.org/zh/guide/deployment.html#github-pages)
